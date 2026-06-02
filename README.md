@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <a href="mailto:OWL7seven@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:callumscholtz+githubreachout@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Currently Brewing A Cup Of Rooibos.</i></p>
