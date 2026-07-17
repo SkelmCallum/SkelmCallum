@@ -1,7 +1,7 @@
 <p align="center">
   <b>Junior Dev</b><br/>
   Creative Entrusiast</b><br/>
-  Creator of myOnionAndPotatoApp
+  Creator of Mzansi KosKas
 </p>
 
 <p align="center">
